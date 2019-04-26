@@ -1,0 +1,30 @@
+#winners {
+	width: 100%;
+}
+.three {
+	width: 100%;
+}
+.navbar {
+	color: blue;
+	background-color: green;
+}
+body {
+	margin-top: 40px;
+	margin-left: 0;
+	margin-right: 0;
+	background-color: #b3b3ff;
+}
+.header {
+	background-color: gray;
+}
+.btn {
+	color: #bfbfbf;
+	font-family: 'Gugi', cursive;
+}
+#log {
+	width: 10%;
+}
+.right {
+	position: absolute;
+	right: 15px;
+}
